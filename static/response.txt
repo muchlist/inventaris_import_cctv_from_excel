@@ -1,0 +1,139 @@
+Berhasil - CY1 MUAT 1 – C005
+Berhasil - CY1 MUAT 2 – C019
+Berhasil - CY1 EMPTY – C031
+Berhasil - CY1 EX TONASA – C037
+Berhasil - CY1 BLOK H – C099
+Berhasil - CY1 BLOK J - C100
+Berhasil - CY2 HENDRATNA – C024
+Berhasil - CY2 GENSET – C025
+Berhasil - CY2 BLOK D – C072
+Berhasil - CY2 BLOK C – C078
+Berhasil - CY2 BLOK E – C022
+Berhasil - CY2 POSKO 2 – C021
+Berhasil - CY2 BLOK A – C096
+Berhasil - CY2 BLOK C – C097
+Berhasil - CY2 BLOK G – C098
+Berhasil - CY2 BLOK G - C116
+Berhasil - CY2 BLOK A – C093
+Berhasil - CY3 EX HENDRATNA – C028
+Berhasil - CY3 EX HENDRATNA 4 – C029 
+Berhasil - CY3 EX HENDRATA BLOK – C073
+Berhasil - CY3 EX HENDRATA BLOK – C092
+Berhasil - CY3 EX HENDRATA BLOK – C094
+Berhasil - CY3 EX HENDRATA BLOK – C095
+Berhasil - CY4 WORKSHOP – C033
+Berhasil - CY5 WORKSHOP PROTEK 1 – C052
+Berhasil - CY5 WORKSHOP PROTEK 2 – C053
+Berhasil - CY5 PARKIR – C076
+Berhasil - CY5 PARKIRAN BELAKANG – C091
+Berhasil - GATE OUT 1 – C015
+Berhasil - GATE OUT 2 – C016
+Berhasil - GATE IN 2 – C018
+Berhasil - GATE IN 1 – C068
+Berhasil - GATE IN 2 – C069
+Berhasil - GATE OUT 1 – C070
+Berhasil - GATE OUT 2 – C071
+Berhasil - GATE TPKB – C014
+Berhasil - GATE TPKB – C017
+Berhasil - GATE TPKB - C102
+Berhasil - GATE TPKB - C103
+Berhasil - GATE TPKB - C104
+Berhasil - DER – C030
+Berhasil - DER KEPANDUAN – C038
+Berhasil - DER POSKO 3 – C066
+Berhasil - DER CY HENDRATNA 2 – C067
+Berhasil - DER 500 – C011
+Berhasil - GED LORONG – C089
+Berhasil - GED PINTU MASUK – C090
+Berhasil - TRANSIT TRUCK – C034
+Berhasil - CY LUMBA OUT – C020
+Berhasil - CY LUMBA  - C036
+Berhasil - CY LUMBA IN - C113
+Berhasil - CY LUMBA OUT - C114
+Berhasil - CY KSOP - C112
+Berhasil - CY CDC – C004
+Berhasil - CDC GUDANG – C108
+Berhasil - CY  - C101
+Berhasil - GED PARKIRAN CDC – C043
+Berhasil - GED PINTU KELUAR CDC – C044
+Berhasil - SIPIL GATE INTERCHANGE – C013
+Berhasil - SIPIL CDC – C012
+Berhasil - SPIL CY - C106
+Berhasil - CDC MERATUS – C009
+Berhasil - SAMUDRA CY CDC – C080
+Berhasil - SAMUDRA CY - C118
+Berhasil - SAMUDRA CY - C119
+Berhasil - EX RUMAH DINAS 1 – C039
+Berhasil - EX RUMAH DINAS 2 – C017
+Berhasil - BMC CY - C115
+Berhasil - GATE POSKO – C040
+Berhasil - GATE – C079
+Berhasil - PARKIRAN – C045
+Berhasil - CAR KONVENSIONAL – C008
+Berhasil - RORO GATE – C084
+Berhasil - RORO DALAM – C085
+Berhasil - RORO TENGAH - C107
+Berhasil - MARBA PARKIR – C074
+Berhasil - MARBA GATE – C077
+Berhasil - MARBA JALAN – C082
+Berhasil - MARBA GENSET TPKB – C083
+Berhasil - MARBA GATE - C109
+Berhasil - GED PINTU MASUK TP – C054
+Berhasil - GED LOBBY TP KSOP – C055
+Berhasil - GED TERPEN DEPAN – C056
+Berhasil - GED TERPEN KSOP – C057
+Berhasil - GED PINTU KELUAR TP KSOP – C058
+Berhasil - GED TERPEN - C111
+Berhasil - DERMAGA PENUMPANG – C001
+Berhasil - DERMAGA CARGO – C003
+Berhasil - DERMAGA TRISAKTI – C041
+Berhasil - DERMAGA KONVENSIONAL – C081
+Berhasil - DERMAGA CARGO 500 – C010
+Berhasil - DERMAGA MULTIPURPOSE - C110
+Berhasil - MARBA 2 – C006
+Berhasil - MARBA 1 – C007
+Berhasil - MARBA DERMAGA – C075
+Berhasil - LOBBY CABANG 1 – C048
+Berhasil - LOBBY CABANG 2 – C049
+Berhasil - PPSA – C050
+Berhasil - SEKERTARIS GM – C051
+Berhasil - RUANG KEUANGAN – C063
+Berhasil - BRANGKAS KEUANGAN – C064
+Berhasil - TANGGA REGIONAL – C087
+Berhasil - LORONG  CAFE REGIONAL – C086
+Berhasil - RUANG UMUM - CAM
+Berhasil - RUANG UMUM - CAM
+Berhasil - RUANG IT – C023
+Berhasil - PINTU BELAKANG - C88
+Berhasil - RUANG POCC - CAM
+Berhasil - RUANG RAPAT POCC - CAM
+Berhasil - RUANG RADIO POCC - CAM
+Berhasil - SERVER CABANG – C002
+Berhasil - SERVER DRC – C059
+Berhasil - PARKIR TEKNIK – C042
+Berhasil - PARKIR PINTU MASUK CABANG – C046
+Berhasil - PARKIR PINTU KELUAR CABANG – C047
+Berhasil - PARKIR BELAKANG CABANG – C065
+Berhasil - DER - 1 DERMGA CPO
+Berhasil - DER - 1 DERMGA KAYU
+Berhasil - DALAM KANTOR
+Berhasil - SP CY3 EX HENDRATNA  - C001
+Berhasil - SP CY3 EX HENDRATNA  - C002
+Berhasil - SP CY3 EX HENDRATNA  - C003
+Berhasil - SP CY3 EX HENDRATNA  - C004
+Berhasil - SP CY3 EX HENDRATNA  - C005
+Berhasil - SP CY3 EX HENDRATNA  - C006
+Berhasil - SP CY2 BLOK – C007
+Berhasil - SP CY2 BLOK – C008
+Berhasil - SP CY2 BLOK – C009
+Berhasil - SP CY2 BLOK – C010
+Berhasil - SP CY2 BLOK – C011
+Berhasil - SP CY2 BLOK – C012
+Berhasil - SP CY2 BLOK – C013
+Berhasil - SP CY1 BLOK – C014
+Berhasil - SP CY1 BLOK – C015
+Berhasil - SP CY1 BLOK – C016
+Berhasil - SP CY1 BLOK – C017
+Berhasil - SP CY4 WORKSHOP – C018
+Berhasil - SP CY4 WORKSHOP – C019
+Berhasil - SP CY4 WORKSHOP – C020
